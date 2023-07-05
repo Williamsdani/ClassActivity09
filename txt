@@ -1,4 +1,0 @@
-XnjvLvtFWIvQWXWA
-
-mongodb+srv://wd7576383:XnjvLvtFWIvQWXWA@cluster0.tjoqfnu.mongodb.net/
-mongodb+srv://wd7576383:w73l2LSyrwRDN9db@cluster0.v5hxain.mongodb.net/
